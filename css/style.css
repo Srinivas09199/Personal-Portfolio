@@ -32,23 +32,26 @@
 html{
     font-size: 62.5%;
     overflow-x: hidden;
+    position: relative;
 }
 
 html::-webkit-scrollbar {
-    width: 1.4rem;
+    width: 0.5rem;
 }
 
 html::-webkit-scrollbar-track {
-    background: #323946;
+    background: transparent;
 }
 
 html::-webkit-scrollbar-thumb {
     background: var(--fourth-color);
+    border-radius: 20px
 }
 
 body {
     background: #1f242d;
     overflow-x: hidden;
+    position: relative;
     padding-left: 35rem;
 }
 
