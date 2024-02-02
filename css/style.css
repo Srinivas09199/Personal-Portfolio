@@ -67,7 +67,7 @@ section {
 .btn {
     padding: .7rem 3rem;
     background: #323946;
-    color: #fff;
+    color: aliceblue;
     cursor: pointer;
     font-size: 2rem;
     border-radius: 5rem;
@@ -90,7 +90,7 @@ section {
     font-size: 4rem;
     padding: 1rem;
     border-bottom: .1rem solid #1170e5;
-    color: #fff;
+    color: aliceblue;
 }
 
 .heading span {
@@ -123,13 +123,13 @@ header .user img {
 
 header .user .name {
     font-size: 3.5rem;
-    color: #fff;
+    color: aliceblue;
     padding: 0.2rem;
 }
 
 header .user .post {
     font-size: 2rem;
-    color: #fff;
+    color: aliceblue;
 }
 
 header .user .post span {
@@ -150,7 +150,7 @@ header .navbar ul li a {
     padding: 1rem;
     margin: 1.5rem 0;
     background: #323946;
-    color: #fff;
+    color: aliceblue;
     font-size: 2rem;
     border-radius: 5rem;
 }
@@ -166,7 +166,7 @@ header .navbar ul li a:hover {
     top: 2rem;
     right: 2rem;
     background: #323946;
-    color: #fff;
+    color: aliceblue;
     cursor: pointer;
     font-size: 2.5rem;
     padding: 1rem 1.5rem;
@@ -183,12 +183,12 @@ header .navbar ul li a:hover {
 
 .home h3 {
     font-size: 2.5rem;
-    color: #fff;
+    color: aliceblue;
 }
 
 .home h1 {
     font-size: 5rem;
-    color: #fff;
+    color: aliceblue;
 }
 
 .home h1 span {
@@ -197,7 +197,7 @@ header .navbar ul li a:hover {
 
 .home p {
     font-size: 2rem;
-    color: #fff;
+    color: aliceblue;
 }
 
 .home .contact-icons i{
@@ -244,7 +244,7 @@ header .navbar ul li a:hover {
 }
 
 .about .row .info h3 span {
-    color: #fff;
+    color: aliceblue;
     padding: 0 .5rem;
 }
 
@@ -300,27 +300,27 @@ header .navbar ul li a:hover {
     width: 27rem;
     margin: 4rem 1rem;
     padding-left: 4rem;
-    border-left: .2rem solid #fff;
+    border-left: .2rem solid aliceblue;
     position: relative;
 }
 
 .education .box-container .box span {
     font-size: 1.3rem;
     background: #323946;
-    color: #fff;
+    color: aliceblue;
     border-radius: 5rem;
     padding: .5rem 2.5rem;
 }
 
 .education .box-container .box h3 {
     font-size: 2rem;
-    color: #fff;
+    color: aliceblue;
     padding-top: 1.5rem;
 }
 
 .education .box-container .box p {
     font-size: 1.4rem;
-    color: #fff;
+    color: aliceblue;
     padding: 1rem 0;
 }
 
@@ -389,7 +389,7 @@ header .navbar ul li a:hover {
     padding: 1.5rem;
     margin: 1rem 0;
     background: #323946;
-    color: #fff;
+    color: aliceblue;
     text-transform: none;
     font-size: 1.7rem;
     width: 100%;
@@ -402,7 +402,7 @@ header .navbar ul li a:hover {
 }
 
 .contact .row .content .title {
-    color: #fff;
+    color: aliceblue;
     font-size: 3rem;
     padding-bottom: 2rem;
 }
@@ -411,7 +411,7 @@ header .navbar ul li a:hover {
     display: block;
     align-items: center;
     font-size: 2rem;
-    color: #fff;
+    color: aliceblue;
     padding: 1rem 0;
     font-weight: none;
 }
