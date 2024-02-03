@@ -198,6 +198,7 @@ header .navbar ul li a:hover {
 .home p {
     font-size: 2rem;
     color: aliceblue;
+    text-align: justify;
 }
 
 .home .contact-icons i{
